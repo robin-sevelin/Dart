@@ -1,0 +1,14 @@
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.exe
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.deps.json
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.runtimeconfig.json
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.runtimeconfig.dev.json
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.dll
+C:\Users\robin\source\repos\Dart\Dart\bin\Debug\netcoreapp3.1\Dart.pdb
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.AssemblyInfo.cs
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.dll
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.pdb
+C:\Users\robin\source\repos\Dart\Dart\obj\Debug\netcoreapp3.1\Dart.genruntimeconfig.cache

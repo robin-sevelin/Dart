@@ -1,0 +1,3 @@
+
+ Spelar poäng: Första kastet: 19, andra kastet: 15 och tredje kastet 20
+ Cpu poäng: Första kastet: 8, andra kastet: 3 och tredje kastet 19
